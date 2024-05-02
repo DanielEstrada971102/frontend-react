@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-flow: column;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgb(0,0,0,0.2);
+    text-align: center;
+}
+
+.form{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0px;
+    padding: 10px 0px; 
+    justify-content: space-between;  
+    align-items: center; 
+}
